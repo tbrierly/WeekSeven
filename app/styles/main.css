@@ -42,3 +42,9 @@ z-index: 99;
 /*stylesheets for sections*/
 #sa, #sc, #se { background: #ffebee; }
 #sb, #sd { background: #ffcdd2; }
+
+.line {
+  fill: none;
+  stroke: steelblue;
+  stroke-width: 2px;
+}
